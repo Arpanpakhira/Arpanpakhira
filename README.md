@@ -1,3 +1,10 @@
+<div style="
+  background: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+    url('https://images.unsplash.com/photo-1506744038136-46273834b3fb') no-repeat center center/cover; 
+  padding: 20px; 
+  border-radius: 10px;
+">
 <h1 align="center">Hi 👋, I'm Arpan Pakhira</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 <img align ="right" alt ="coding" width ="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
