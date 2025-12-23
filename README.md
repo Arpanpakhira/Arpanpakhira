@@ -7,11 +7,11 @@
   border-radius: 10px;
 ">
 <h1 align="center">Hi 👋, I'm Arpan Pakhira</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
 <img align ="right" alt ="coding" width ="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanpakhira&label=Profile%20views&color=0e75b6&style=flat" alt="arpanpakhira" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js, SBO**
+- 🌱 I’m currently learning **React, Node.js, Express.js, SBO**
 
 - 💬 Ask me about **JavaScript, React and Search-Based Optimization**
 
